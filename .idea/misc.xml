@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="88dba690-c5c0-4a4b-82d1-761c70a20b39" />
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (CybersecurityTextEncryptor)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (CybersecurityTextEncryptor)" project-jdk-type="Python SDK" />
 </project>
